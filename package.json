@@ -1,0 +1,22 @@
+{
+  "name": "zipcode-distances",
+  "version": "1.0.0",
+  "description": "Database of zip codes from http://federalgovernmentzipcodes.us/",
+  "main": "generate-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenweber/zipcode-distances.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenweber/zipcode-distances/issues"
+  },
+  "homepage": "https://github.com/jenweber/zipcode-distances#readme",
+  "dependencies": {
+    "readline-promise": "0.0.1"
+  }
+}
